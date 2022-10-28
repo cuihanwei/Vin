@@ -105,11 +105,6 @@ public class VinUtil {
         }
         return result;
     }
-
-    public static void main(String[] args) {
-        String result = checkVin("LTVBJ874X60005678");
-        System.out.println(result);
-    }
 }
 
 
